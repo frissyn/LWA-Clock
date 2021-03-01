@@ -1,6 +1,6 @@
 # LWA-Clock
 
-A simple Rainmeter skin that displays time, date, or datetime along with a Little Witch Academia Stick that changes every minute. This is a simple project that I used to learn and get familiar with the Rainmeter SDK.
+A simple Rainmeter skin that displays time, date, or datetime along with a Little Witch Academia Sticker that changes every minute. This is a simple project that I used to learn and get familiar with the Rainmeter SDK.
 
 # Previews
 ![LWA-Clock ss1](https://storage.googleapis.com/replit/images/1610823805033_e7b5d4a4f6e6d1db32bb959b8c084fbe.png)
