@@ -1,5 +1,0 @@
-*.lua                  linguist-language=Lua
-*.inc                  linguist-language=Pawn
-*.ini                  linguist-language=Assembly
-*.ps1                  linguist-language=Powershell
-**/@Resources/Addons/* linguist-vendored
